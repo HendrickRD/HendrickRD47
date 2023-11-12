@@ -1,0 +1,26 @@
+{
+  "name": "Fred Bridges",
+  "age": 26,
+  "address": {
+    "street": "Towi Lane",
+    "city": "Kiejitiw",
+    "state": "OK",
+    "zip": "38810"
+  },
+  "contact": {
+    "phone": "(519) 272-8480",
+    "servicePhone": "800664431"
+  },
+  "birthday": "1984-06-23T12:47:57.611Z",
+  "ip": "133.177.242.138",
+  "foo": "bar",
+  "profile": {
+    "about": "Kun et iwokur begji kar mar cep rabjoj hupa keibe iptod vagel nocsur. Zensuvso gikudviz zisju foh ebi cinpowdec gusru raamu omjewha tuguw wedatpev ajudi. Meugo gas ele fi fijlivju apipujope anebisar toni atijac nes ki ipibu bado ikitapaf davnas ovo.",
+    "bio": "Ijo gomuli ifugu jokpurzi ipudhu loran wedub bozfi junauj eve bibocrod riwak vocas. Vohela hazovacu fip abra en nebmipbum kaac soc da no gennefi wolodrur coinopal fozuzud pot lodje kesen. Morop ibirob uheipe nerfup saragriw gih ina zutup tohgil gar ujo an zilfiw nu."
+  },
+  "apiKey": "b81a05f613cf91768dc82b3b6f855c7e1e54bb2a775d82e6173f76de11240684",
+  "currency": {
+    "code": "CVE",
+    "name": "Cape Verde Escudo"
+  }
+}
