@@ -1,0 +1,26 @@
+{
+  "name": "Kenneth Holloway",
+  "age": 37,
+  "address": {
+    "street": "Avace Circle",
+    "city": "Okegopig",
+    "state": "DC",
+    "zip": "94378"
+  },
+  "contact": {
+    "phone": "(613) 788-4654",
+    "servicePhone": "800392647"
+  },
+  "birthday": "1999-08-27T11:09:14.483Z",
+  "ip": "252.207.133.149",
+  "foo": "bar",
+  "profile": {
+    "about": "Oli pivoreri hiawianu wapekugo hi ak fo ti fanouk bi kijnozaw um evihu zaakja wogusa wica. Foete zaozbi ra gumoh wiv gikce waalciv mujor riz fojak buzkitso veajjar ofugadid ilpactin. Bap taeca eguun odufa lorub si otodok wej lu pa rapovvev laguwsep irahu vesiv mev mag ziwsezse pul. Arvom lez ogabivaze sinim za wopva mo nufefi feucu je dojom kug ruc ob.",
+    "bio": "Cegve irre nelu wir asaros fariboli huccupmos tu ufzu gu poziv emjov sec aveme efejajma cu eb. Re aw ajegefrir to kovon voeso un cuhin far pigilukej ewariwolu paolen odinerve. Idetug hun puj oszaliv mevwuor ka ror tujote ge uwbaw pacin ahwuvmet ferpok paunu gava jej."
+  },
+  "apiKey": "9cbb49252a6120f9c0521dbe09d73aeb25f68fed0bb2b834afef85864fcd7ef8",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
