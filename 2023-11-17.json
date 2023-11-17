@@ -1,0 +1,26 @@
+{
+  "name": "Linnie Fields",
+  "age": 22,
+  "address": {
+    "street": "Pitman Court",
+    "city": "Nepisvu",
+    "state": "IL",
+    "zip": "89102"
+  },
+  "contact": {
+    "phone": "(268) 611-2548",
+    "servicePhone": "800595396"
+  },
+  "birthday": "1992-03-03T16:03:14.833Z",
+  "ip": "238.144.73.202",
+  "foo": "bar",
+  "profile": {
+    "about": "Enetu jomikiufe etofot ji rigpeptaz va vis higzipuji laj pecag avwioje wevafnow sad. Lejin cuw jevwodoz jade buafiibo afba ikezod se emizog lo laf hacihek wizelo jafmutfi zi deh vujsit. Fireha zav fag ob cudreh diabheg lilgafmi habtuda bichow ba surhazdu kocez dak emcul hah cop gafoem gih. Juze ebiset zazde ibazaf lowa virugkej le ehojojzik pohafis noraj ki hof. Nor pir pepin we cucib cidcice uppu lo pavcihfe lavopa ruraf toliji ugupumi jotpojjof sisi ketirel la.",
+    "bio": "Wuecvak jarafu ujuebe tulih hujoesi boj fug ric kogseped ra dido vuhihpe jebupfa detvep me fud wap. Suni niwogsoh ruwzikug vuowi gi jed di deburon was bosunafo faclorlen bugu gik no pitoza zuterefi. Ciwib emetu unu dihba nec esake ku ebbob ub us zeczulva vunopi orva wub ikomo. Teav jalce hojogan ce fa onihases don mik azbiwkis puzem ru sid mudvu wahof."
+  },
+  "apiKey": "aff8ca6ce978f93779ec3e302a7f85fc69ff4769b333fb43d5295658ed81a197",
+  "currency": {
+    "code": "UZS",
+    "name": "Uzbekistan Som"
+  }
+}
