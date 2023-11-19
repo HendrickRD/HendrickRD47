@@ -1,0 +1,26 @@
+{
+  "name": "Mike Watson",
+  "age": 36,
+  "address": {
+    "street": "Ubiseg Parkway",
+    "city": "Owreiku",
+    "state": "MD",
+    "zip": "00933"
+  },
+  "contact": {
+    "phone": "(625) 711-5758",
+    "servicePhone": "800825274"
+  },
+  "birthday": "1985-03-12T11:16:19.821Z",
+  "ip": "229.120.147.238",
+  "foo": "bar",
+  "profile": {
+    "about": "Amiutwo fulu tir kejuweti fundal jamtihim se devbot roc jejatowo hol pefasu. Him cibal wazijol leabror lemolim ko urazek bifikicut ce opnuhha devafca inle sefo zibnogbef. Jaw wedo ho lofgimhep mihob rasi ze wavtog it ubsuban kepag cagpag mah ro eb. Ehvi de lewcup iwuvi dulekad pebu riko viuwe hip vitfo gaf sa gaksuiri itan cew kufsoc ubu simo. Vizni wif towwavku noh se ca tecu nasunju popejem igi pinad ereomri feba kuhsi buas. Pe kasojwe je gezsu da ti fevan fomugdun kumujavaw bal gotnit zip dezpos jogfogbun.",
+    "bio": "Baswo to anergur tejuw ukju rekohojuh kelcuj ekvoza tuw tebaza gipdu bon udsabo jufre. Vowno hucazga eda ju azewad jaguhulo juw ekiahge bid rodi rucuvaj wiz roco ruc uwdolpo joncuzeh. Kesari dicfa re pefvirob aparoz op giigewo ofuwa ul tonvajti tutfapre vekgah uduluvlas huvbuc ginmo. Ajiles gawec lo dunoru lonjis bazluili gili temreeb bi cuep zi dawjosjok jatlecu ev."
+  },
+  "apiKey": "2598e32b9faed005872b0eee271aaba88eb7d8e712d7fa363bf231a1ab866e58",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
