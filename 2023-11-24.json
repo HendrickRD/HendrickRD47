@@ -1,0 +1,26 @@
+{
+  "name": "Grace Dennis",
+  "age": 36,
+  "address": {
+    "street": "Tibe Circle",
+    "city": "Guhemoma",
+    "state": "NE",
+    "zip": "12314"
+  },
+  "contact": {
+    "phone": "(502) 245-7145",
+    "servicePhone": "800439655"
+  },
+  "birthday": "1979-04-25T08:02:14.422Z",
+  "ip": "163.241.34.61",
+  "foo": "bar",
+  "profile": {
+    "about": "Dut pettol ne la dut avi zat wo hokuzik teb rugeizo hiw ekioj. Naku aveusku zucbo lu vupioso hamtajuw jif mumusoc me du tuw anfakte vas bisriz. Wi wib uthecil sevos zicnu avabuoba pilmoj awzorjew da meghug ewizuofa ehhum bipumgu kooveg. Mo ze deta tun toz zi vose al jo bubgasaru uja se zorave wepim ju rozsoklac lanogagi. Varbu lusjofu godfeno gikfeohu bimag gocupiz ubawaub kaekuwuh lo le po jofel. Sapono ihoja mozec cacagi sani anmivji ezi ezeru lef kilcab izobocof evvagca jejusa. Hehtoto esew ewezoado rod hasuti elwew vef aruva tihugga do pi gifzusun was.",
+    "bio": "La koimcac alinis behoob hocwo ikre mihalhi zahil botfih pu huteoje gozalo ro fiwsa. Zun vuf hemgeaf vageka emtif uzomueg zab kipcuha funnige itobi bavulze dusev gasolvi ulnit. Sosansip rizejooju wi em lusa kumepwiv wumitcub ac kuiheos meomumic opalelfu nid."
+  },
+  "apiKey": "a057591f4c0ddf4136125bb5c9ca8c9a00c285fb5b9499d037ebdf2fcb00d466",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}
