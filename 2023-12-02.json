@@ -1,0 +1,26 @@
+{
+  "name": "Brett Gutierrez",
+  "age": 53,
+  "address": {
+    "street": "Zegfij Center",
+    "city": "Gahkieg",
+    "state": "IL",
+    "zip": "06095"
+  },
+  "contact": {
+    "phone": "(314) 542-6809",
+    "servicePhone": "800392494"
+  },
+  "birthday": "1988-10-26T20:01:15.464Z",
+  "ip": "177.29.229.59",
+  "foo": "bar",
+  "profile": {
+    "about": "Nuvemu mi azta utondi it kic lu usouhelij leh re gar anatovifi espo. Hok ce gaj mahi olewupok naca op kil ehi fa dij vaurzu vifnepjuz. Fijohco vah venanat cikurise bile isahagto abo acha nakeres mewowut levas pozar kopbu uzuentat. Wuhe gelega lobec jobteb pepdopaj ram mu diwut se ilocovve ci lafgah cu ivla efomefo nap reslop.",
+    "bio": "Zalib gize cem ofi sarve cef meglo wougpe zeiwepiz huatapo ti epvucne. Kis ogoownit rehaj mobsuag no ra tagru pulakin cughubti zip jod jamizuh. Pi zasa lo doudufol jedelic rinduja tehhip zew na sotnac vuwub artun wurdujoz leji miku."
+  },
+  "apiKey": "205bbbcd2a4d5f4451531125dbfc169b3b1b0bfb3cd660f68de7e987b347ce8f",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
