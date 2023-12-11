@@ -1,0 +1,26 @@
+{
+  "name": "Stephen Pena",
+  "age": 43,
+  "address": {
+    "street": "Saddon Key",
+    "city": "Diccakoz",
+    "state": "MO",
+    "zip": "68204"
+  },
+  "contact": {
+    "phone": "(223) 680-9378",
+    "servicePhone": "800344858"
+  },
+  "birthday": "1970-03-27T11:37:23.410Z",
+  "ip": "164.163.174.198",
+  "foo": "bar",
+  "profile": {
+    "about": "Akoga le pohepus kaffur pew zownotgo nod nomtu vi zes azekupef vugin jologa fi wovbizuz hu. Isi sujwo vuwdalut etla wifjico ifru aherar muwik bazofor dupudvap eb efa cin. Nak murwo piipofij uguzeta fah pujcaine zo muejfi jan mocjen uva reduro.",
+    "bio": "Encirfo ru wu halzistip raczasdo iguofcur ik dam vomu geziavi inki gawewwub pecurogo vunzon lu hesozpi irepozela. Mata udubav wobomigac roz lov jo kinanwiv ato orbese lutod nan go nisozip selwudcus hawpuhjo vihta dirpos sanwige. Gam ew rabibe rasegze no ge fiitru fek advojo sal li bisot pa. Laladac ruj gu kezdoji tek uhizu li webve kiwbo nalew dapdubho suwukkar vu. Kaw roiwci zimozvi felij enofek nihvofmut umomo digti dimpur os vepu kigcane un ucseh."
+  },
+  "apiKey": "3cbd725ebc500c8383ed9b614a3e3d5766900c0625447f95151623dd93bf5f76",
+  "currency": {
+    "code": "KMF",
+    "name": "Comoros Franc"
+  }
+}
