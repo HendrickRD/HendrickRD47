@@ -1,0 +1,26 @@
+{
+  "name": "Gabriel Mitchell",
+  "age": 65,
+  "address": {
+    "street": "Nuzuri Glen",
+    "city": "Viujasis",
+    "state": "OR",
+    "zip": "12088"
+  },
+  "contact": {
+    "phone": "(360) 315-4944",
+    "servicePhone": "800265652"
+  },
+  "birthday": "1982-04-22T18:29:13.634Z",
+  "ip": "131.191.151.121",
+  "foo": "bar",
+  "profile": {
+    "about": "Ni her fe onuris kipozu ho milifi sawemub cimcek cuviweto mid ca ces bac motihzus ulu. Niwoli ris bar goli halo mub dolidiip erelule tituva juju udcofpo kupleb vigefojen afumezar vibsugez bavu opeduvapi. Woz busu hintonop mo vu laababom kuszusren kiwcu ikuoku vu zoz bel.",
+    "bio": "Faw ecdamlag sawka sezkaw tedidasu ig ka udiwekbaw fucuhi vefoc cuzi ekuvoz rus udo elitof fedoigo ralfiwe. Kobiewa vonvi tazizu zahsewdij raijeud helihmu hibim dimebifo ber ul tepi zeluif omwod urikil cafankow. Va puvgezega fos juhu ruwdo mobbu memu enso ditdevi buzeal riwuw ivsek oti."
+  },
+  "apiKey": "1d47b315cef133d475d9308e1569956e5ab548828291681dbd288102a719def0",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
