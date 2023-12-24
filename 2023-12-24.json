@@ -1,0 +1,26 @@
+{
+  "name": "Victor Gray",
+  "age": 54,
+  "address": {
+    "street": "Nuwo Lane",
+    "city": "Voozidoz",
+    "state": "WY",
+    "zip": "46561"
+  },
+  "contact": {
+    "phone": "(387) 275-5120",
+    "servicePhone": "800717626"
+  },
+  "birthday": "1984-03-21T05:48:51.411Z",
+  "ip": "137.47.95.51",
+  "foo": "bar",
+  "profile": {
+    "about": "Torbiczir gugrel uvuesufe ligsewu fu gahwisjur ibagihac ew hi murbidev hu siv lobug re ov etje forzi. Vu cevaw etkufav vij owwucga kav desem es zorwomvut ecolonan jize kuzsichu. Luroefi ziorelu co lejsodad we jir deki jaovair nu sosherpor hecwis pu.",
+    "bio": "Fif femiju lug tivog don po devogec dudnor goloj ahuul ovlodce irucetuse udocegken livutij vedu. Pitum gob hiphom tal fe fe nuru san adliom ebudumil og jezgos. Ijbo peka hihjopdak jat jodrah keba uzi vocla neatti wohega zacif miediano. Paloven cipkusbut fazar bojna iva iwipas uf popad vooh ucju fira boz ili. Pittebro nogudrop honjauz ugupus suv zefeg mudelare zu wu ero toetku bodnurvuk map."
+  },
+  "apiKey": "6ef5de3cdf422ec59fdd2549375eaf3ca8bd0cadb6748803b0986db2b0eda950",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
