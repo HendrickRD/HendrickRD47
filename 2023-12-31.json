@@ -1,0 +1,26 @@
+{
+  "name": "Glenn Valdez",
+  "age": 55,
+  "address": {
+    "street": "Bimzi Park",
+    "city": "Zuwezuf",
+    "state": "IN",
+    "zip": "74455"
+  },
+  "contact": {
+    "phone": "(957) 810-4119",
+    "servicePhone": "800655194"
+  },
+  "birthday": "1990-09-13T20:40:27.303Z",
+  "ip": "116.171.199.64",
+  "foo": "bar",
+  "profile": {
+    "about": "Rotpik jahkem honaj elasa kevinom bovam vean de niv lebtele huczam nak. Lamu jikfavpo oni vouz oz luflaan ago rohzoas cil adhaud ifi delhi. Fuvujal azapel ezuk iwtejop raowaf la navzov pu osuwipur fukfog dognu ma bikahnod.",
+    "bio": "Adoozkil lomake id korhizir jihoniduz bovizta uteb cogidu re goniabi macraade roheku. Hig iffi edlacmo upi ota gigulcat moglavvu sepo piluntuk lufal ra fobacjuw ruibno kejpor fep vezalenaf biwothaj. Amusufig fot migfuce kipzob ilukobga tujfijji as gujbobek eseco gav pinubtek kunelbe. Zer vascenwut sihfoj kolul gumena kecuhzem balbo romki loltu sabladgob kiulozij nalpivoc ritas judo."
+  },
+  "apiKey": "07b5a9cd7e939e4642401dd31b988436af4c9f27e379b1cf91060cc21923cf6d",
+  "currency": {
+    "code": "MNT",
+    "name": "Mongolia Tughrik"
+  }
+}
