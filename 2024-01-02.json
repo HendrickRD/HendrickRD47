@@ -1,0 +1,26 @@
+{
+  "name": "Carlos Pratt",
+  "age": 43,
+  "address": {
+    "street": "Mibube Center",
+    "city": "Siomavir",
+    "state": "HI",
+    "zip": "90842"
+  },
+  "contact": {
+    "phone": "(568) 998-1346",
+    "servicePhone": "800655844"
+  },
+  "birthday": "1974-12-22T07:33:18.843Z",
+  "ip": "146.237.233.83",
+  "foo": "bar",
+  "profile": {
+    "about": "Wenjimer bas ramfizum he totulod onzoz kufdigu ade ahiin bilineg dor viumoido tan sissijag vopub lojuvak rusem pokpe. Itwas arugo tidivha gicizu batwabja talrine zi divhew imeora ledvi teodaik lavno rorki gimnevo isdufhu fe dijcejka. Re gukpeb wikaf pazled lijefira cak lijozuj hujpo ubzaal tov dimgor zilaam sulogu ko ag.",
+    "bio": "Ujo asbaja zav diwkuh juirmal ofaom hibholhu fiahwib teguza ciogo ifiromum vipetaza. Nodka alozo as ses wuawza logdakfij icomomona oz vipa godsosacu zuzvep gew mabfir jejusti mahe fewwadmic. Um as feho ifabuntiw asbutba ek zutrip izsas cezilum iwfo oni puzabi siwusol ho."
+  },
+  "apiKey": "169ad1849efaf312287cf47f3435013005232f4e4a39fb5639fcc3d04fe20297",
+  "currency": {
+    "code": "SBD",
+    "name": "Solomon Islands Dollar"
+  }
+}
