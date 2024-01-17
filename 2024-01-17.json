@@ -1,0 +1,26 @@
+{
+  "name": "Rena Munoz",
+  "age": 43,
+  "address": {
+    "street": "Lajaj Drive",
+    "city": "Nezdunag",
+    "state": "MO",
+    "zip": "80930"
+  },
+  "contact": {
+    "phone": "(489) 877-2864",
+    "servicePhone": "800432864"
+  },
+  "birthday": "1995-08-08T18:43:37.649Z",
+  "ip": "35.111.200.215",
+  "foo": "bar",
+  "profile": {
+    "about": "Sitfasri fuvnuf guikoeb irjo foteazu libnu voigu iw pofedok atbehi razeh pojac poduz vemrubco celivi ati puci lepiwzef. Waj pir iziton ub gajgulci wecte gi ec tiuhe ropito saskev kap tapipmu vejevsu. Aterisig zo ino pa cik muejej zab meucher napa ketwud wuksew wav. Gizvu kab pa guvjekfa canvok ega ko sap pemiv nikrut gazbi ric godomwe abzipbo hu voibezo dagevo finol.",
+    "bio": "Enimib nuwe sik famwo satdo liajbog cu bedwo ilib geefo fi ovi fal polulne hakes mibaz fi jo. Be pac zi wane metucaf cekidre je cuh facure raja nurovuhod murooha vuja fe ituhodu. Vonco rir efauf re watir giraphu hifome da tiul omila uclej vo lagib fupruk rog visihu."
+  },
+  "apiKey": "582c60f64ee862432ce6d813135750ca12ceac4ee47024c643e2709f5fafcca5",
+  "currency": {
+    "code": "SAR",
+    "name": "Saudi Arabia Riyal"
+  }
+}
