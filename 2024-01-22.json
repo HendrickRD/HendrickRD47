@@ -1,0 +1,26 @@
+{
+  "name": "Hunter Henry",
+  "age": 60,
+  "address": {
+    "street": "Bajla Highway",
+    "city": "Lezubwit",
+    "state": "PA",
+    "zip": "45995"
+  },
+  "contact": {
+    "phone": "(485) 411-4155",
+    "servicePhone": "800123649"
+  },
+  "birthday": "1983-10-10T11:35:03.574Z",
+  "ip": "77.78.137.254",
+  "foo": "bar",
+  "profile": {
+    "about": "Loab nozidema nu fibdom no he etre ogniw nalnintaj muc nuf evuninri biv. Hat jukho eva jistuh tafojug toclawco sog go tisuru fa ikuote igato ipeog doasuhi osku watpothi. Gow iviiwoweg icamohe vi kipan johopatu nor ruwwefes ruz ebotihju asafuzju mu feh nukgavem nak. Pumeube di pulibun ofuhig upecu giwbi papme manad hotma rif madem uz apa keze.",
+    "bio": "Ebaibguj kemcesuh sarneggo tegog kessineba misenov nomduzna okewedpi la ova ete zowabak lot kuak etowe adfafim mu ub. Zoilumuc giro vire wun se wiis ibiwor hokuino bizarejel dinuz fijuh bafic dijite lemgo cedavah iraogi vazofos li. Javi jiwediju akifoc li po siwesric wul hiwto opag goum iwarabbo zebbuva ca surgegpuw difi putaega. Saseviuda meita tirugnaf tam otavib uvtek ofwit tuvcu miwilan jin fa cef ziffeike nenraw surwoluv ja di waw. Gingobil zidcidep be betov zulta tot tagi oruro sasisi jok riczedde rabif lide wi ripmar. Asku guhlurpok wobew ijfugra rumzo hezavbip oj iduki vi zego jebom bivge fahi mehvacu ba pa ged ok."
+  },
+  "apiKey": "64c7991a7a28f6f19f4f4dd0d3c12ecbd498012f5bdf9ac2779303c018d3edbb",
+  "currency": {
+    "code": "SZL",
+    "name": "Swaziland Lilangeni"
+  }
+}
