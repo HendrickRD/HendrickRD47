@@ -1,0 +1,26 @@
+{
+  "name": "Thomas Ward",
+  "age": 25,
+  "address": {
+    "street": "Zova Extension",
+    "city": "Terrovuj",
+    "state": "NC",
+    "zip": "35269"
+  },
+  "contact": {
+    "phone": "(673) 561-8929",
+    "servicePhone": "800519776"
+  },
+  "birthday": "1982-02-12T12:40:32.272Z",
+  "ip": "203.186.9.145",
+  "foo": "bar",
+  "profile": {
+    "about": "Ludkiwko razic foca rek fove vuz ef mol ti dic neko erupaj laog zegehu ge gidurper. Liscughum pu amunib mek cegewkew mobvo ce ku fe lid cogut tulko jatmegsib kenoj awugi mu gil. Vudlih of cotol zippazku kihe papho or agitufpe jojamlu iwubolwac netip zokini. Nofica kuv nuho liz dog unjahoj oksarigo uf luz huvevguv kohir girum cuto ibkaiti ehre.",
+    "bio": "Battazsa obu ap if ewo le jijo fepnad upo siku sev furfan va nuktobit. Caklu ponse guv nazibon hugur kaotiula nucewit wohpuw geto udbe zowwo limcuj fof tohav nugduc wiceeva. Esreg tub va ta poredolac conic ruj he heluz begmevo ozemi zubi desa ridhivjap lum ol ah ujiv. Cota ajzen baciuf javepi cuk hizziizi insiriz fi je kojluhle ravge zedise fam. Kuv ni vokru juf semi kukwajazo wag ceg baptifu gilcude dug ikajuhe pawbuguh mihad."
+  },
+  "apiKey": "f7f205841c7e431780b46b2ecc655f2e7fffa7e568abeb9af05ab8f9cef6278e",
+  "currency": {
+    "code": "UYU",
+    "name": "Uruguay Peso"
+  }
+}
