@@ -1,0 +1,26 @@
+{
+  "name": "Noah Stevenson",
+  "age": 24,
+  "address": {
+    "street": "Odira Parkway",
+    "city": "Famutos",
+    "state": "OR",
+    "zip": "94334"
+  },
+  "contact": {
+    "phone": "(473) 856-6876",
+    "servicePhone": "800448216"
+  },
+  "birthday": "1999-04-26T01:36:51.387Z",
+  "ip": "46.75.44.249",
+  "foo": "bar",
+  "profile": {
+    "about": "Voej kes kuhko voffo vomci rej ivbo salrubof ali vis na fovkorij sek cufij. Ruuc dowemnuh vur kecorlid gijpopon fezwek keguju gos uco wof ocoka gevanideb fasvohlov. Cirgahot we voftub po rac if bum mocitif efamo atuwo idpinob tawubuk miriwem wa zownaslan idipe oriwoem. Ufisehoj ma rudefag bevfu nipab ta tuc rapgij galiw jisofe kuhuv bor cuc bijco sejusha siswota.",
+    "bio": "Zolwewe lewki cad idha keum vor nalric gep ifa mos zec ezigof fuf ku mos. Sis ujolow lede si gej oca eso ihu ci pe wog tepavibi rudjazim awe aw al do. Votib kep pis epre fufki obmodor ugit gojem fapu kedasok rulu kuzeolo girvauso ge jidalba."
+  },
+  "apiKey": "8928d51794602071ecaae76ee043b40145f427aa5a194dc6e7f6cd145ee7c569",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
