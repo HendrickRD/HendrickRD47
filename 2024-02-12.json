@@ -1,0 +1,26 @@
+{
+  "name": "Miguel McGuire",
+  "age": 44,
+  "address": {
+    "street": "Nehul Ridge",
+    "city": "Dosuesa",
+    "state": "VT",
+    "zip": "25826"
+  },
+  "contact": {
+    "phone": "(704) 536-2985",
+    "servicePhone": "800955714"
+  },
+  "birthday": "1999-02-14T15:28:45.528Z",
+  "ip": "109.53.56.245",
+  "foo": "bar",
+  "profile": {
+    "about": "Duaru difpal jelij aj wasci aro dukoru ahiwa cid gapzutbip widasili ucjidi fo jagubezoj zu celonucor levol. Apufa zaif ro ive ipu rucij zo zejum lezvom uwo besucu rurufogo izgem kasi er di pawu zoizafu. Hus vavjub welsocat ifror tiraphi jed fuze affedoh nufejato ucuwucuv sarofujek zalbol zeb onbohba won.",
+    "bio": "Jovtel pommev um vilzup bapwi gihef binvoljo nu eza bidjonam hifunek nehi gawget. Orgod lazefuga evmu pev zog fo cinmaluf migipo uf bilej minpewsej pivafef fawita aricuz debuhoju ma offehupa ej. Liejki rowurko kafahmo kiadgib wakvasa dum tip cuvaviv zesze popduku sewu suklu mewe tu."
+  },
+  "apiKey": "a7059b63fa2683febc3c6ac033317560c141249293015d310ba357712c53e209",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
