@@ -1,0 +1,26 @@
+{
+  "name": "Peter Bowman",
+  "age": 62,
+  "address": {
+    "street": "Sinjik Circle",
+    "city": "Dirbabla",
+    "state": "NY",
+    "zip": "74486"
+  },
+  "contact": {
+    "phone": "(462) 513-4549",
+    "servicePhone": "800826572"
+  },
+  "birthday": "1975-09-13T21:37:34.980Z",
+  "ip": "112.19.23.139",
+  "foo": "bar",
+  "profile": {
+    "about": "Repaoja kebbu eweva hubud tagoh resoszi viga nickas ekdeol ji paza mir bap noz. Gitete wavi bu to isezi rehnehpiw nonomew kuiku andule zudgufoh loira ficupze wu ijaomiigu. Doz wa des udke wakiz uda ocu jo ajakanoca daweluc derdalbuh mubam idiez rira ronaghec.",
+    "bio": "Tupal ziweh oh tivdacu lub curuwigez opbik toget ziulimi ve ado zu. Efcun avva lactakel rifjiuru zi bib ozuig abaito ug ga wes hecpu etcilce witrop egukacfas siizu fagjid. Mezet echud hese rarpu tegtuoba tedujvez ziriab utmo lutduzcag segje paccudi pavvadoh didhanpoj uha sejsih."
+  },
+  "apiKey": "988911a0440f93d8b51463643a33523699bddc1c9aed0af52818deb4e68c9779",
+  "currency": {
+    "code": "PGK",
+    "name": "Papua New Guinea Kina"
+  }
+}
