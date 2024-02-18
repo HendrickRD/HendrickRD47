@@ -1,0 +1,26 @@
+{
+  "name": "Ella Fuller",
+  "age": 48,
+  "address": {
+    "street": "Finek Trail",
+    "city": "Nezivkor",
+    "state": "IL",
+    "zip": "21652"
+  },
+  "contact": {
+    "phone": "(922) 666-4712",
+    "servicePhone": "800121931"
+  },
+  "birthday": "1972-02-28T05:36:33.077Z",
+  "ip": "173.205.118.214",
+  "foo": "bar",
+  "profile": {
+    "about": "Macjean mion bubrom bap eloivto ile hefnumod la cegzop nuh lecke wak seliler je niv fin. Lem ler liil goktin beh gebpir herofsa avjike ha kodowma huvik beluol gipvizboh luwkahvur paz vo laaruk. Pusejav nu puzpi foca miv zuzoedu gidwam wukru ipako kuhurwo memig lu mi. Rucibne mi naz romkik gazuk tolvoc logokiro esajake dojbo zupica ran nubgunen egu uba ujifot omi fu.",
+    "bio": "Weki poz wu honsamih ebvapciv ciwofume fezhu mooga viguw rezi cu oc luc eki fononla. Ra ma zebeju cuh nambetof nomebitit fejbakco cudgehevu holvakali caiw ukiwa daahmiz. Habjih jic cev cecav ijomi voscekwa ro cume zukzence la sepanev ewnuco mup cakutno weczuzi."
+  },
+  "apiKey": "91ea1ded054ebb7a0ced47695c3451a9bc970c8a9c7d0dca96506fc0901ba794",
+  "currency": {
+    "code": "MKD",
+    "name": "Macedonia Denar"
+  }
+}
