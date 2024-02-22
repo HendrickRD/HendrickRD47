@@ -1,0 +1,26 @@
+{
+  "name": "David Nelson",
+  "age": 18,
+  "address": {
+    "street": "Dibu Mill",
+    "city": "Reetute",
+    "state": "OR",
+    "zip": "78845"
+  },
+  "contact": {
+    "phone": "(270) 259-8697",
+    "servicePhone": "800199571"
+  },
+  "birthday": "1995-10-13T20:07:56.862Z",
+  "ip": "241.252.219.115",
+  "foo": "bar",
+  "profile": {
+    "about": "Vir dimahe dolfivti udevane leugri kom lo asogaz kotpo la ih fe lig ivro. Itivizin toora gerogo bakawdi sibwotsu zelfib kogum war zikumge top navit biferwep wojutaf gededgo wa ezadihgaz pevpebe. Hehneca fuukaf pejoza bopwaofe omu bihe aduka edme der bef magmezti zuni asiug tewke lin zu biiru seinije. Eh coah zid tekvapmun kilwi op fetiame lic tijdod zajire hubkezuj olpoku gubnel nivka savuv jikfuhopu wepepi. Ufarejuf ojhuzez segcioh boko kaapapi kuralosuj we cuihuiho roswom ehwarip how tebojeube puic zudan ro emsuv. Luwudbal womvef not logo ci keut karloluj zesbanho lozwelcu cir gat ma ku fewbaapo.",
+    "bio": "Vi jem ja apebgi ecauba forodnuz efujof ved luj iwu te zi ci wanumbu tahise buvmokig hekuwda havegte. Tidefnoz tu suicdo kidmi otricko guvu wiga lunaf ahbemni vewejat giuw na mo to ebmev injejeci wap omo. Lamme mohpoko be ce lepwatev pobwame iwjaz cuv gajfedam idketi hida jus."
+  },
+  "apiKey": "6281d3b1a96922428ccfc2cc996856e4a9b996d2b6cccf465b7cc15e161af866",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
