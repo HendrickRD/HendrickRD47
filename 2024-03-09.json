@@ -1,0 +1,26 @@
+{
+  "name": "Bill Robinson",
+  "age": 57,
+  "address": {
+    "street": "Nesjo Path",
+    "city": "Utrevo",
+    "state": "AL",
+    "zip": "94770"
+  },
+  "contact": {
+    "phone": "(766) 752-5146",
+    "servicePhone": "800789582"
+  },
+  "birthday": "2001-06-18T07:35:01.242Z",
+  "ip": "219.42.211.225",
+  "foo": "bar",
+  "profile": {
+    "about": "Rumzohe ir seuwfe isicu wudlub eh vohuhge rapmizuv bazsulu ejaicoges vis osgollog mazgo hi bemutkoc. Foas mouda agu vazuf ju hilkuwbe nalurof leko liclabak sulilfur ebsof mahe fil. Pi reguc picordu ludpe hijsa do fu kakvodkar wa sunet carorwo tuujuma ti ug suoj agke naanu. Mu absoclo kakih vuwamav cafun nucik acevuwo wufoco utnivrul vav haeze nud uc cizestef gug nuw. Tibtim enzehgun bujolek ava dasaba vifdawej apzion uvuzas pajarzop paksebuv but gertuw hisjugpad foblegge kepo.",
+    "bio": "Reuzewef ocmi ukepo mehzeghen zu cacisado newhemug lubud geibope paso lukkam ka neduv menze da asu hanor gijgup. Henet tauti hevcu tazkebpu erhebto asetim katwam foz facejiuko telaceogi namzodniv wimbas urpikup lemfig wu jukgigsov bedatbid. Bokepi lofvuc ri zorjicow sufu ilafa uhdici sajul et ucimnuv ivo hetewdef go zicagpas ori bigave ismana. Lowboire ifdovmeg cesgo esoovoba ticboke sava le usuvud nu icazikcoz balucab waslaheg ci kim sakfabeg rozuwu vizviw ke."
+  },
+  "apiKey": "0a77da44aca00bbe154e27a31ba7a21ec2738c03e0ab0f2212c77657bafe78af",
+  "currency": {
+    "code": "AMD",
+    "name": "Armenia Dram"
+  }
+}
