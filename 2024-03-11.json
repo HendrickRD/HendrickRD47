@@ -1,0 +1,26 @@
+{
+  "name": "Ruth Holmes",
+  "age": 40,
+  "address": {
+    "street": "Bepfa Park",
+    "city": "Seuwva",
+    "state": "KY",
+    "zip": "83806"
+  },
+  "contact": {
+    "phone": "(684) 809-4710",
+    "servicePhone": "800527322"
+  },
+  "birthday": "1979-06-21T15:30:42.437Z",
+  "ip": "57.52.46.47",
+  "foo": "bar",
+  "profile": {
+    "about": "Wovot deovze ra pap bu re guwpuw sah ra hammo fo buv relve labekda docgem. Boiji cuodi na rajji geikidoh jelofav pu jansilno zon kepueci lagis gu. Cowlur foid epiho mot la uge idnuz sepormoj ro pud kufaztoz hebum segsib pusniswi bi.",
+    "bio": "Gume fiasi usfe cu ekoefiwad zaeraved irujecus pipa ozli wa efgutofo mo veziac. Ikri zerusu nek hevuv wicikjih jed milvenu hi okohe ifjonrol foc ju zat pirit. Hivumul agafo fakjaow bu lokren ec saulfu uloluh feszo vac vujil nop. Tanenbe ritrasre gefipsip maduhog ihvuveb amepoag ga pugivi nog nir we denbiwa una bogcofzid di di lufvej. Miwdegnoc ra samu vif tuk fit muzig fawi po hi iku deh. Guvagti pil fer bamod emkelo bo jafbi lu ma mepeser cujogvev ce papo vo wa. Mijoho juz onla adogitah savnaup foim tujed rippuvak sezinuc po rat ufo sitfohju ufewojtem lal ben."
+  },
+  "apiKey": "7a35aaf46c35b75f3aa177f23699b13afa38f92bc7f5b3cb98c7c8ddcf8a6d4d",
+  "currency": {
+    "code": "HRK",
+    "name": "Croatia Kuna"
+  }
+}
