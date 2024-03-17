@@ -1,0 +1,26 @@
+{
+  "name": "Antonio Peterson",
+  "age": 37,
+  "address": {
+    "street": "Ziuce Glen",
+    "city": "Tinekwa",
+    "state": "NJ",
+    "zip": "92065"
+  },
+  "contact": {
+    "phone": "(649) 662-5285",
+    "servicePhone": "800816267"
+  },
+  "birthday": "1994-03-20T12:20:47.283Z",
+  "ip": "45.30.168.20",
+  "foo": "bar",
+  "profile": {
+    "about": "Vetimi ovvorec cotdag mo ucajej ihzi merif sig izmedtoz wuwbin nokres uzru wum otatosna rejti majtoj vev ho. Pa pu loh hi nuvcizsin ba vemo luzebe oh hufhiip ze tu ritfaze pejic lamifcu rezcen. Fuazola caw bu lucodu ceddot zi dake fe pepoluk ci rikcompen ohasa oboito idopza aluojkol lodo nihtadom. Etse ov lej fipulev hevzovme ko juwhi med viwmot dobcohze ga sub lar faac. Now dahipe lirnohzev pif usdo kafitro pascuhe voc labumo fid moobouk ba ha ur zaaveg danun virogat manizid. Daefuh mu per ezvowcet vuhotaj pahedi wer oheneze luben hifvoha efa wibgis leduk jof refmut dehurciz lobul ucijecna. Vahup cotu persab tunwajjo zowog keg mavzam enegan igedo visbu tuobe ugeeza pupu addejta.",
+    "bio": "Fukza owiwut ijezajsi hahvab gak tipomto sosos rih lotocnub cubtozwef ihirma ih. Saroh laap ze ekme uzliz nem huwlo tabuz git jipefuz erabo faze nodebipa. Caiw ro udvadle ip tumumaf ujujunor zeg gaj agloneg susaf refumud leudaso fogwup li."
+  },
+  "apiKey": "8a0ce8718dfd9b8efe749e2d26ca5d804d87beecfa28925e25385a42131973ae",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
